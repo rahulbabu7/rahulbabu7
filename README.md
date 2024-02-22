@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbabu7" alt="rahulbabu7" /></a> </p>
 
-- 🔭 I’m currently working on **some vue projects**
+- 🔭 I’m currently working on **SMART DUST BIN**
 
-- 🌱 I’m currently learning **vue,typescript**
+- 🌱 I’m currently learning **PYTHON ,FASTAPI**
 
 - 📫 How to reach me **rahulbabu436@gmail.com**
 
