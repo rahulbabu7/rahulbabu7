@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **MERN and DSA**
+- 🌱 I’m currently learning **PYTHON and DSA**
 
 - 📫 How to reach me **rahulbabu436@gmail.com**
 
