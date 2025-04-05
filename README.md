@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TransUNet based Liver Tumor Segmentation**
 
-- 🌱 I’m currently learning **PYTHON and DSA**
+- 🌱 I’m currently learning **JAVA and SPRING BOOT**
 
 - 📫 How to reach me **rahulbabu436@gmail.com**
 
