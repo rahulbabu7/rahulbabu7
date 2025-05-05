@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbabu7" alt="rahulbabu7" /></a> </p>
 
-- 🔭 I’m currently working on **TransUNet based Liver Tumor Segmentation**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **JAVA and SPRING BOOT**
 
