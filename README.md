@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Django And Stuffs**
+- 🌱 I’m currently learning **Machine Learning and Stuffs**
 
 - 📫 How to reach me **rahulbabu436@gmail.com**
 
